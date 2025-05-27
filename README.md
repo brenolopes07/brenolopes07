@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Breno Lopes Bezerra, tenho 22 anos e sou natural de Caraguatatuba, São Paulo. Sou apaixonado por tecnologia e estou focado em C# e .NET no back-end e React no front-end. Também possuo experiência com Node.js, TypeScript, Fastify, Prisma e PostgreSQL.
+Me chamo Breno Lopes Bezerra, tenho 22 anos e sou natural de Caraguatatuba, São Paulo. Sou apaixonado por tecnologia e estou focado em C# e .NET no back-end e React no front-end. Também possuo experiência com Node.js, TypeScript, Prisma e PostgreSQL.
 
 Busco sempre evoluir, aprender novas tecnologias e compartilhar minha jornada através do GitHub e LinkedIn.
 
