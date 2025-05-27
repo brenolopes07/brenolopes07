@@ -50,14 +50,7 @@ Busco sempre evoluir, aprender novas tecnologias e compartilhar minha jornada at
     title="Tailwind CSS"
     src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
   />
-  <img
-    alt="Docker"
-    title="Docker"
-    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-  />
-</p>
-
-
+  
 
 
 ### 📫 Contato
@@ -152,25 +145,6 @@ Busco sempre evoluir, aprender novas tecnologias e compartilhar minha jornada at
 
 <img 
     align="left" 
-    alt="Azure" 
-    title="Azure"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-/>
-
-<
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
@@ -194,7 +168,7 @@ Busco sempre evoluir, aprender novas tecnologias e compartilhar minha jornada at
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="195" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolopes07&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
