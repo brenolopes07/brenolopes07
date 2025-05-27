@@ -162,7 +162,7 @@ Busco sempre evoluir, aprender novas tecnologias e compartilhar minha jornada at
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="195" 
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=brenolopes07&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
