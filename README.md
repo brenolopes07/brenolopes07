@@ -168,10 +168,10 @@ Busco sempre evoluir, aprender novas tecnologias e compartilhar minha jornada at
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
-      height="195" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolopes07&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolopes07&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
