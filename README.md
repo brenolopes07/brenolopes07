@@ -150,7 +150,6 @@ Busco sempre evoluir, aprender novas tecnologias e compartilhar minha jornada at
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<!-- Azure -->
 <img 
     align="left" 
     alt="Azure" 
@@ -160,7 +159,7 @@ Busco sempre evoluir, aprender novas tecnologias e compartilhar minha jornada at
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 
-<!-- AWS -->
+<
 <img 
     align="left" 
     alt="AWS" 
@@ -170,7 +169,6 @@ Busco sempre evoluir, aprender novas tecnologias e compartilhar minha jornada at
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 
-<!-- Docker -->
 <img 
     align="left" 
     alt="Docker" 
@@ -199,7 +197,7 @@ Busco sempre evoluir, aprender novas tecnologias e compartilhar minha jornada at
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolopes07&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolopes07&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
